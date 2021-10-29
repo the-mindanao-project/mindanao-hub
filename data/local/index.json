@@ -1,0 +1,1716 @@
+{
+	"region-09": {
+		"name": "Zamboanga Peninsula",
+		"provinces": {
+			"zamboanga-del-norte": {
+				"name": "Zamboanga Del Norte",
+				"towns": {
+					"bacungan-leon-t-postigo": {
+						"name": "Bacungan (leon T. Postigo)"
+					},
+					"baliguian": {
+						"name": "Baliguian"
+					},
+					"godod": {
+						"name": "Godod"
+					},
+					"gutalac": {
+						"name": "Gutalac"
+					},
+					"jose-dalman-ponot": {
+						"name": "Jose Dalman (ponot)"
+					},
+					"kalawit": {
+						"name": "Kalawit"
+					},
+					"katipunan": {
+						"name": "Katipunan"
+					},
+					"la-libertad": {
+						"name": "La Libertad"
+					},
+					"labason": {
+						"name": "Labason"
+					},
+					"liloy": {
+						"name": "Liloy"
+					},
+					"manukan": {
+						"name": "Manukan"
+					},
+					"mutia": {
+						"name": "Mutia"
+					},
+					"piñan-new-piñan": {
+						"name": "Piñan (new Piñan)"
+					},
+					"polanco": {
+						"name": "Polanco"
+					},
+					"pres-manuel-a-roxas": {
+						"name": "Pres. Manuel A. Roxas"
+					},
+					"rizal": {
+						"name": "Rizal"
+					},
+					"salug": {
+						"name": "Salug"
+					},
+					"sergio-osmeña-sr": {
+						"name": "Sergio Osmeña Sr."
+					},
+					"siayan": {
+						"name": "Siayan"
+					},
+					"sibuco": {
+						"name": "Sibuco"
+					},
+					"sibutad": {
+						"name": "Sibutad"
+					},
+					"sindangan": {
+						"name": "Sindangan"
+					},
+					"siocon": {
+						"name": "Siocon"
+					},
+					"sirawai": {
+						"name": "Sirawai"
+					},
+					"tampilisan": {
+						"name": "Tampilisan"
+					}
+				},
+				"cities": {
+					"dapitan-city": {
+						"name": "Dapitan City"
+					},
+					"dipolog-city": {
+						"name": "Dipolog City"
+					}
+				},
+				"count": {
+					"town": 25,
+					"city": 2
+				}
+			},
+			"zamboanga-del-sur": {
+				"name": "Zamboanga Del Sur",
+				"towns": {
+					"aurora": {
+						"name": "Aurora"
+					},
+					"bayog": {
+						"name": "Bayog"
+					},
+					"dimataling": {
+						"name": "Dimataling"
+					},
+					"dinas": {
+						"name": "Dinas"
+					},
+					"dumalinao": {
+						"name": "Dumalinao"
+					},
+					"dumingag": {
+						"name": "Dumingag"
+					},
+					"guipos": {
+						"name": "Guipos"
+					},
+					"josefina": {
+						"name": "Josefina"
+					},
+					"kumalarang": {
+						"name": "Kumalarang"
+					},
+					"labangan": {
+						"name": "Labangan"
+					},
+					"lakewood": {
+						"name": "Lakewood"
+					},
+					"lapuyan": {
+						"name": "Lapuyan"
+					},
+					"mahayag": {
+						"name": "Mahayag"
+					},
+					"margosatubig": {
+						"name": "Margosatubig"
+					},
+					"midsalip": {
+						"name": "Midsalip"
+					},
+					"molave": {
+						"name": "Molave"
+					},
+					"pitogo": {
+						"name": "Pitogo"
+					},
+					"ramon-magsaysay-liargo": {
+						"name": "Ramon Magsaysay (liargo)"
+					},
+					"san-miguel": {
+						"name": "San Miguel"
+					},
+					"san-pablo": {
+						"name": "San Pablo"
+					},
+					"sominot-don-mariano-marcos": {
+						"name": "Sominot (don Mariano Marcos)"
+					},
+					"tabina": {
+						"name": "Tabina"
+					},
+					"tambulig": {
+						"name": "Tambulig"
+					},
+					"tigbao": {
+						"name": "Tigbao"
+					},
+					"tukuran": {
+						"name": "Tukuran"
+					},
+					"vincenzo-a-sagun": {
+						"name": "Vincenzo A. Sagun"
+					}
+				},
+				"cities": {
+					"pagadian-city": {
+						"name": "Pagadian City"
+					},
+					"zamboanga-city": {
+						"name": "Zamboanga City"
+					}
+				},
+				"count": {
+					"town": 26,
+					"city": 2
+				}
+			},
+			"zamboanga-sibugay": {
+				"name": "Zamboanga Sibugay",
+				"towns": {
+					"alicia": {
+						"name": "Alicia"
+					},
+					"buug": {
+						"name": "Buug"
+					},
+					"diplahan": {
+						"name": "Diplahan"
+					},
+					"imelda": {
+						"name": "Imelda"
+					},
+					"ipil": {
+						"name": "Ipil"
+					},
+					"kabasalan": {
+						"name": "Kabasalan"
+					},
+					"mabuhay": {
+						"name": "Mabuhay"
+					},
+					"malangas": {
+						"name": "Malangas"
+					},
+					"naga": {
+						"name": "Naga"
+					},
+					"olutanga": {
+						"name": "Olutanga"
+					},
+					"payao": {
+						"name": "Payao"
+					},
+					"roseller-lim": {
+						"name": "Roseller Lim"
+					},
+					"siay": {
+						"name": "Siay"
+					},
+					"talusan": {
+						"name": "Talusan"
+					},
+					"titay": {
+						"name": "Titay"
+					},
+					"tungawan": {
+						"name": "Tungawan"
+					}
+				},
+				"cities": [],
+				"count": {
+					"town": 16,
+					"city": 0
+				}
+			}
+		},
+		"count": {
+			"province": 3,
+			"city": 4,
+			"town": 67
+		}
+	},
+	"region-10": {
+		"name": "Northern Mindanao",
+		"provinces": {
+			"bukidnon": {
+				"name": "Bukidnon",
+				"towns": {
+					"baungon": {
+						"name": "Baungon"
+					},
+					"cabanglasan": {
+						"name": "Cabanglasan"
+					},
+					"damulog": {
+						"name": "Damulog"
+					},
+					"dangcagan": {
+						"name": "Dangcagan"
+					},
+					"don-carlos": {
+						"name": "Don Carlos"
+					},
+					"impasug-ong": {
+						"name": "Impasug-ong"
+					},
+					"kadingilan": {
+						"name": "Kadingilan"
+					},
+					"kalilangan": {
+						"name": "Kalilangan"
+					},
+					"kibawe": {
+						"name": "Kibawe"
+					},
+					"kitaotao": {
+						"name": "Kitaotao"
+					},
+					"lantapan": {
+						"name": "Lantapan"
+					},
+					"libona": {
+						"name": "Libona"
+					},
+					"malitbog": {
+						"name": "Malitbog"
+					},
+					"manolo-fortich": {
+						"name": "Manolo Fortich"
+					},
+					"maramag": {
+						"name": "Maramag"
+					},
+					"pangantucan": {
+						"name": "Pangantucan"
+					},
+					"quezon": {
+						"name": "Quezon"
+					},
+					"san-fernando": {
+						"name": "San Fernando"
+					},
+					"sumilao": {
+						"name": "Sumilao"
+					},
+					"talakag": {
+						"name": "Talakag"
+					}
+				},
+				"cities": {
+					"city-of-malaybalay": {
+						"name": "City Of Malaybalay"
+					},
+					"valencia-city": {
+						"name": "Valencia City"
+					}
+				},
+				"count": {
+					"town": 20,
+					"city": 2
+				}
+			},
+			"camiguin": {
+				"name": "Camiguin",
+				"towns": {
+					"catarman": {
+						"name": "Catarman"
+					},
+					"guinsiliban": {
+						"name": "Guinsiliban"
+					},
+					"mahinog": {
+						"name": "Mahinog"
+					},
+					"mambajao": {
+						"name": "Mambajao"
+					},
+					"sagay": {
+						"name": "Sagay"
+					}
+				},
+				"cities": [],
+				"count": {
+					"town": 5,
+					"city": 0
+				}
+			},
+			"lanao-del-norte": {
+				"name": "Lanao Del Norte",
+				"towns": {
+					"bacolod": {
+						"name": "Bacolod"
+					},
+					"baloi": {
+						"name": "Baloi"
+					},
+					"baroy": {
+						"name": "Baroy"
+					},
+					"kapatagan": {
+						"name": "Kapatagan"
+					},
+					"kauswagan": {
+						"name": "Kauswagan"
+					},
+					"kolambugan": {
+						"name": "Kolambugan"
+					},
+					"lala": {
+						"name": "Lala"
+					},
+					"linamon": {
+						"name": "Linamon"
+					},
+					"magsaysay": {
+						"name": "Magsaysay"
+					},
+					"maigo": {
+						"name": "Maigo"
+					},
+					"matungao": {
+						"name": "Matungao"
+					},
+					"munai": {
+						"name": "Munai"
+					},
+					"nunungan": {
+						"name": "Nunungan"
+					},
+					"pantao-ragat": {
+						"name": "Pantao Ragat"
+					},
+					"pantar": {
+						"name": "Pantar"
+					},
+					"poona-piagapo": {
+						"name": "Poona Piagapo"
+					},
+					"salvador": {
+						"name": "Salvador"
+					},
+					"sapad": {
+						"name": "Sapad"
+					},
+					"sultan-naga-dimaporo-karomatan": {
+						"name": "Sultan Naga Dimaporo (karomatan)"
+					},
+					"tagoloan": {
+						"name": "Tagoloan"
+					},
+					"tangcal": {
+						"name": "Tangcal"
+					},
+					"tubod": {
+						"name": "Tubod"
+					}
+				},
+				"cities": {
+					"iligan-city": {
+						"name": "Iligan City"
+					}
+				},
+				"count": {
+					"town": 22,
+					"city": 1
+				}
+			},
+			"misamis-occidental": {
+				"name": "Misamis Occidental",
+				"towns": {
+					"aloran": {
+						"name": "Aloran"
+					},
+					"baliangao": {
+						"name": "Baliangao"
+					},
+					"bonifacio": {
+						"name": "Bonifacio"
+					},
+					"calamba": {
+						"name": "Calamba"
+					},
+					"clarin": {
+						"name": "Clarin"
+					},
+					"concepcion": {
+						"name": "Concepcion"
+					},
+					"don-victoriano-chiongbian-don-mariano-marcos": {
+						"name": "Don Victoriano Chiongbian (don Mariano Marcos)"
+					},
+					"jimenez": {
+						"name": "Jimenez"
+					},
+					"lopez-jaena": {
+						"name": "Lopez Jaena"
+					},
+					"panaon": {
+						"name": "Panaon"
+					},
+					"plaridel": {
+						"name": "Plaridel"
+					},
+					"sapang-dalaga": {
+						"name": "Sapang Dalaga"
+					},
+					"sinacaban": {
+						"name": "Sinacaban"
+					},
+					"tudela": {
+						"name": "Tudela"
+					}
+				},
+				"cities": {
+					"oroquieta-city": {
+						"name": "Oroquieta City"
+					},
+					"ozamis-city": {
+						"name": "Ozamis City"
+					},
+					"tangub-city": {
+						"name": "Tangub City"
+					}
+				},
+				"count": {
+					"town": 14,
+					"city": 3
+				}
+			},
+			"misamis-oriental": {
+				"name": "Misamis Oriental",
+				"towns": {
+					"alubijid": {
+						"name": "Alubijid"
+					},
+					"balingasag": {
+						"name": "Balingasag"
+					},
+					"balingoan": {
+						"name": "Balingoan"
+					},
+					"binuangan": {
+						"name": "Binuangan"
+					},
+					"claveria": {
+						"name": "Claveria"
+					},
+					"gitagum": {
+						"name": "Gitagum"
+					},
+					"initao": {
+						"name": "Initao"
+					},
+					"jasaan": {
+						"name": "Jasaan"
+					},
+					"kinoguitan": {
+						"name": "Kinoguitan"
+					},
+					"lagonglong": {
+						"name": "Lagonglong"
+					},
+					"laguindingan": {
+						"name": "Laguindingan"
+					},
+					"libertad": {
+						"name": "Libertad"
+					},
+					"lugait": {
+						"name": "Lugait"
+					},
+					"magsaysay-linugos": {
+						"name": "Magsaysay (linugos)"
+					},
+					"manticao": {
+						"name": "Manticao"
+					},
+					"medina": {
+						"name": "Medina"
+					},
+					"naawan": {
+						"name": "Naawan"
+					},
+					"opol": {
+						"name": "Opol"
+					},
+					"salay": {
+						"name": "Salay"
+					},
+					"sugbongcogon": {
+						"name": "Sugbongcogon"
+					},
+					"tagoloan": {
+						"name": "Tagoloan"
+					},
+					"talisayan": {
+						"name": "Talisayan"
+					},
+					"villanueva": {
+						"name": "Villanueva"
+					}
+				},
+				"cities": {
+					"cagayan-de-oro-city": {
+						"name": "Cagayan De Oro City"
+					},
+					"el-salvador-city": {
+						"name": "El Salvador City"
+					},
+					"gingoog-city": {
+						"name": "Gingoog City"
+					}
+				},
+				"count": {
+					"town": 23,
+					"city": 3
+				}
+			}
+		},
+		"count": {
+			"province": 5,
+			"city": 9,
+			"town": 84
+		}
+	},
+	"region-11": {
+		"name": "Davao Region",
+		"provinces": {
+			"compostela-valley": {
+				"name": "Compostela Valley",
+				"towns": {
+					"compostela": {
+						"name": "Compostela"
+					},
+					"laak-san-vicente": {
+						"name": "Laak (san Vicente)"
+					},
+					"mabini-doña-alicia": {
+						"name": "Mabini (doña Alicia)"
+					},
+					"maco": {
+						"name": "Maco"
+					},
+					"maragusan-san-mariano": {
+						"name": "Maragusan (san Mariano)"
+					},
+					"mawab": {
+						"name": "Mawab"
+					},
+					"monkayo": {
+						"name": "Monkayo"
+					},
+					"montevista": {
+						"name": "Montevista"
+					},
+					"nabunturan": {
+						"name": "Nabunturan"
+					},
+					"new-bataan": {
+						"name": "New Bataan"
+					},
+					"pantukan": {
+						"name": "Pantukan"
+					}
+				},
+				"cities": [],
+				"count": {
+					"town": 11,
+					"city": 0
+				}
+			},
+			"davao-davao-del-norte": {
+				"name": "Davao (davao Del Norte)",
+				"towns": {
+					"asuncion-saug": {
+						"name": "Asuncion (saug)"
+					},
+					"braulio-e-dujali": {
+						"name": "Braulio E. Dujali"
+					},
+					"carmen": {
+						"name": "Carmen"
+					},
+					"kapalong": {
+						"name": "Kapalong"
+					},
+					"new-corella": {
+						"name": "New Corella"
+					},
+					"san-isidro": {
+						"name": "San Isidro"
+					},
+					"santo-tomas": {
+						"name": "Santo Tomas"
+					},
+					"talaingod": {
+						"name": "Talaingod"
+					}
+				},
+				"cities": {
+					"city-of-tagum": {
+						"name": "City Of Tagum"
+					},
+					"island-garden-city-of-samal": {
+						"name": "Island Garden City Of Samal"
+					},
+					"panabo-city": {
+						"name": "Panabo City"
+					}
+				},
+				"count": {
+					"town": 8,
+					"city": 3
+				}
+			},
+			"davao-del-sur": {
+				"name": "Davao Del Sur",
+				"towns": {
+					"bansalan": {
+						"name": "Bansalan"
+					},
+					"hagonoy": {
+						"name": "Hagonoy"
+					},
+					"kiblawan": {
+						"name": "Kiblawan"
+					},
+					"magsaysay": {
+						"name": "Magsaysay"
+					},
+					"malalag": {
+						"name": "Malalag"
+					},
+					"matanao": {
+						"name": "Matanao"
+					},
+					"padada": {
+						"name": "Padada"
+					},
+					"santa-cruz": {
+						"name": "Santa Cruz"
+					},
+					"sulop": {
+						"name": "Sulop"
+					}
+				},
+				"cities": {
+					"davao-city": {
+						"name": "Davao City"
+					},
+					"digos-city": {
+						"name": "Digos City"
+					}
+				},
+				"count": {
+					"town": 9,
+					"city": 2
+				}
+			},
+			"davao-occidental": {
+				"name": "Davao Occidental",
+				"towns": {
+					"don-marcelino": {
+						"name": "Don Marcelino"
+					},
+					"jose-abad-santos-trinidad": {
+						"name": "Jose Abad Santos (trinidad)"
+					},
+					"malita": {
+						"name": "Malita"
+					},
+					"santa-maria": {
+						"name": "Santa Maria"
+					},
+					"sarangani": {
+						"name": "Sarangani"
+					}
+				},
+				"cities": [],
+				"count": {
+					"town": 5,
+					"city": 0
+				}
+			},
+			"davao-oriental": {
+				"name": "Davao Oriental",
+				"towns": {
+					"baganga": {
+						"name": "Baganga"
+					},
+					"banaybanay": {
+						"name": "Banaybanay"
+					},
+					"boston": {
+						"name": "Boston"
+					},
+					"caraga": {
+						"name": "Caraga"
+					},
+					"cateel": {
+						"name": "Cateel"
+					},
+					"governor-generoso": {
+						"name": "Governor Generoso"
+					},
+					"lupon": {
+						"name": "Lupon"
+					},
+					"manay": {
+						"name": "Manay"
+					},
+					"san-isidro": {
+						"name": "San Isidro"
+					},
+					"tarragona": {
+						"name": "Tarragona"
+					}
+				},
+				"cities": {
+					"mati-city": {
+						"name": "Mati City"
+					}
+				},
+				"count": {
+					"town": 10,
+					"city": 1
+				}
+			}
+		},
+		"count": {
+			"province": 5,
+			"city": 6,
+			"town": 43
+		}
+	},
+	"region-12": {
+		"name": "SOCCSKSARGEN",
+		"provinces": {
+			"cotabato-north-cot": {
+				"name": "Cotabato (north Cot.)",
+				"towns": {
+					"alamada": {
+						"name": "Alamada"
+					},
+					"aleosan": {
+						"name": "Aleosan"
+					},
+					"antipas": {
+						"name": "Antipas"
+					},
+					"arakan": {
+						"name": "Arakan"
+					},
+					"banisilan": {
+						"name": "Banisilan"
+					},
+					"carmen": {
+						"name": "Carmen"
+					},
+					"kabacan": {
+						"name": "Kabacan"
+					},
+					"libungan": {
+						"name": "Libungan"
+					},
+					"m'lang": {
+						"name": "M'lang"
+					},
+					"magpet": {
+						"name": "Magpet"
+					},
+					"makilala": {
+						"name": "Makilala"
+					},
+					"matalam": {
+						"name": "Matalam"
+					},
+					"midsayap": {
+						"name": "Midsayap"
+					},
+					"pigkawayan": {
+						"name": "Pigkawayan"
+					},
+					"pikit": {
+						"name": "Pikit"
+					},
+					"president-roxas": {
+						"name": "President Roxas"
+					},
+					"tulunan": {
+						"name": "Tulunan"
+					}
+				},
+				"cities": {
+					"city-of-kidapawan": {
+						"name": "City Of Kidapawan"
+					}
+				},
+				"count": {
+					"town": 17,
+					"city": 1
+				}
+			},
+			"sarangani": {
+				"name": "Sarangani",
+				"towns": {
+					"alabel": {
+						"name": "Alabel"
+					},
+					"glan": {
+						"name": "Glan"
+					},
+					"kiamba": {
+						"name": "Kiamba"
+					},
+					"maasim": {
+						"name": "Maasim"
+					},
+					"maitum": {
+						"name": "Maitum"
+					},
+					"malapatan": {
+						"name": "Malapatan"
+					},
+					"malungon": {
+						"name": "Malungon"
+					}
+				},
+				"cities": [],
+				"count": {
+					"town": 7,
+					"city": 0
+				}
+			},
+			"south-cotabato": {
+				"name": "South Cotabato",
+				"towns": {
+					"banga": {
+						"name": "Banga"
+					},
+					"lake-sebu": {
+						"name": "Lake Sebu"
+					},
+					"norala": {
+						"name": "Norala"
+					},
+					"polomolok": {
+						"name": "Polomolok"
+					},
+					"santo-niño": {
+						"name": "Santo Niño"
+					},
+					"surallah": {
+						"name": "Surallah"
+					},
+					"t`boli": {
+						"name": "T`boli"
+					},
+					"tampakan": {
+						"name": "Tampakan"
+					},
+					"tantangan": {
+						"name": "Tantangan"
+					},
+					"tupi": {
+						"name": "Tupi"
+					}
+				},
+				"cities": {
+					"general-santos-city-dadiangas": {
+						"name": "General Santos City (dadiangas)"
+					},
+					"koronadal-city": {
+						"name": "Koronadal City"
+					}
+				},
+				"count": {
+					"town": 10,
+					"city": 2
+				}
+			},
+			"sultan-kudarat": {
+				"name": "Sultan Kudarat",
+				"towns": {
+					"bagumbayan": {
+						"name": "Bagumbayan"
+					},
+					"columbio": {
+						"name": "Columbio"
+					},
+					"esperanza": {
+						"name": "Esperanza"
+					},
+					"isulan": {
+						"name": "Isulan"
+					},
+					"kalamansig": {
+						"name": "Kalamansig"
+					},
+					"lambayong-mariano-marcos": {
+						"name": "Lambayong (mariano Marcos)"
+					},
+					"lebak": {
+						"name": "Lebak"
+					},
+					"lutayan": {
+						"name": "Lutayan"
+					},
+					"palimbang": {
+						"name": "Palimbang"
+					},
+					"president-quirino": {
+						"name": "President Quirino"
+					},
+					"sen-ninoy-aquino": {
+						"name": "Sen. Ninoy Aquino"
+					}
+				},
+				"cities": {
+					"tacurong-city": {
+						"name": "Tacurong City"
+					}
+				},
+				"count": {
+					"town": 11,
+					"city": 1
+				}
+			}
+		},
+		"count": {
+			"province": 4,
+			"city": 4,
+			"town": 45
+		}
+	},
+	"region-13": {
+		"name": "CARAGA",
+		"provinces": {
+			"agusan-del-norte": {
+				"name": "Agusan Del Norte",
+				"towns": {
+					"buenavista": {
+						"name": "Buenavista"
+					},
+					"carmen": {
+						"name": "Carmen"
+					},
+					"jabonga": {
+						"name": "Jabonga"
+					},
+					"kitcharao": {
+						"name": "Kitcharao"
+					},
+					"las-nieves": {
+						"name": "Las Nieves"
+					},
+					"magallanes": {
+						"name": "Magallanes"
+					},
+					"nasipit": {
+						"name": "Nasipit"
+					},
+					"remedios-t-romualdez": {
+						"name": "Remedios T. Romualdez"
+					},
+					"santiago": {
+						"name": "Santiago"
+					},
+					"tubay": {
+						"name": "Tubay"
+					}
+				},
+				"cities": {
+					"butuan-city": {
+						"name": "Butuan City"
+					},
+					"cabadbaran-city": {
+						"name": "Cabadbaran City"
+					}
+				},
+				"count": {
+					"town": 10,
+					"city": 2
+				}
+			},
+			"agusan-del-sur": {
+				"name": "Agusan Del Sur",
+				"towns": {
+					"bunawan": {
+						"name": "Bunawan"
+					},
+					"esperanza": {
+						"name": "Esperanza"
+					},
+					"la-paz": {
+						"name": "La Paz"
+					},
+					"loreto": {
+						"name": "Loreto"
+					},
+					"prosperidad": {
+						"name": "Prosperidad"
+					},
+					"rosario": {
+						"name": "Rosario"
+					},
+					"san-francisco": {
+						"name": "San Francisco"
+					},
+					"san-luis": {
+						"name": "San Luis"
+					},
+					"santa-josefa": {
+						"name": "Santa Josefa"
+					},
+					"sibagat": {
+						"name": "Sibagat"
+					},
+					"talacogon": {
+						"name": "Talacogon"
+					},
+					"trento": {
+						"name": "Trento"
+					},
+					"veruela": {
+						"name": "Veruela"
+					}
+				},
+				"cities": {
+					"bayugan-city": {
+						"name": "Bayugan City"
+					}
+				},
+				"count": {
+					"town": 13,
+					"city": 1
+				}
+			},
+			"dinagat-islands": {
+				"name": "Dinagat Islands",
+				"towns": {
+					"basilisa-rizal": {
+						"name": "Basilisa (rizal)"
+					},
+					"cagdianao": {
+						"name": "Cagdianao"
+					},
+					"dinagat": {
+						"name": "Dinagat"
+					},
+					"libjo-albor": {
+						"name": "Libjo (albor)"
+					},
+					"loreto": {
+						"name": "Loreto"
+					},
+					"san-jose": {
+						"name": "San Jose"
+					},
+					"tubajon": {
+						"name": "Tubajon"
+					}
+				},
+				"cities": [],
+				"count": {
+					"town": 7,
+					"city": 0
+				}
+			},
+			"surigao-del-norte": {
+				"name": "Surigao Del Norte",
+				"towns": {
+					"alegria": {
+						"name": "Alegria"
+					},
+					"bacuag": {
+						"name": "Bacuag"
+					},
+					"burgos": {
+						"name": "Burgos"
+					},
+					"claver": {
+						"name": "Claver"
+					},
+					"dapa": {
+						"name": "Dapa"
+					},
+					"del-carmen": {
+						"name": "Del Carmen"
+					},
+					"general-luna": {
+						"name": "General Luna"
+					},
+					"gigaquit": {
+						"name": "Gigaquit"
+					},
+					"mainit": {
+						"name": "Mainit"
+					},
+					"malimono": {
+						"name": "Malimono"
+					},
+					"pilar": {
+						"name": "Pilar"
+					},
+					"placer": {
+						"name": "Placer"
+					},
+					"san-benito": {
+						"name": "San Benito"
+					},
+					"san-francisco-anao-aon": {
+						"name": "San Francisco (anao-aon)"
+					},
+					"san-isidro": {
+						"name": "San Isidro"
+					},
+					"santa-monica-sapao": {
+						"name": "Santa Monica (sapao)"
+					},
+					"sison": {
+						"name": "Sison"
+					},
+					"socorro": {
+						"name": "Socorro"
+					},
+					"tagana-an": {
+						"name": "Tagana-an"
+					},
+					"tubod": {
+						"name": "Tubod"
+					}
+				},
+				"cities": {
+					"surigao-city": {
+						"name": "Surigao City"
+					}
+				},
+				"count": {
+					"town": 20,
+					"city": 1
+				}
+			},
+			"surigao-del-sur": {
+				"name": "Surigao Del Sur",
+				"towns": {
+					"barobo": {
+						"name": "Barobo"
+					},
+					"bayabas": {
+						"name": "Bayabas"
+					},
+					"cagwait": {
+						"name": "Cagwait"
+					},
+					"cantilan": {
+						"name": "Cantilan"
+					},
+					"carmen": {
+						"name": "Carmen"
+					},
+					"carrascal": {
+						"name": "Carrascal"
+					},
+					"cortes": {
+						"name": "Cortes"
+					},
+					"hinatuan": {
+						"name": "Hinatuan"
+					},
+					"lanuza": {
+						"name": "Lanuza"
+					},
+					"lianga": {
+						"name": "Lianga"
+					},
+					"lingig": {
+						"name": "Lingig"
+					},
+					"madrid": {
+						"name": "Madrid"
+					},
+					"marihatag": {
+						"name": "Marihatag"
+					},
+					"san-agustin": {
+						"name": "San Agustin"
+					},
+					"san-miguel": {
+						"name": "San Miguel"
+					},
+					"tagbina": {
+						"name": "Tagbina"
+					},
+					"tago": {
+						"name": "Tago"
+					}
+				},
+				"cities": {
+					"bislig-city": {
+						"name": "Bislig City"
+					},
+					"tandag-city": {
+						"name": "Tandag City"
+					}
+				},
+				"count": {
+					"town": 17,
+					"city": 2
+				}
+			}
+		},
+		"count": {
+			"province": 5,
+			"city": 6,
+			"town": 67
+		}
+	},
+	"region-BARMM": {
+		"name": "BARMM",
+		"provinces": {
+			"basilan": {
+				"name": "Basilan",
+				"towns": {
+					"akbar": {
+						"name": "Akbar"
+					},
+					"al-barka": {
+						"name": "Al-barka"
+					},
+					"hadji-mohammad-ajul": {
+						"name": "Hadji Mohammad Ajul"
+					},
+					"hadji-muhtamad": {
+						"name": "Hadji Muhtamad"
+					},
+					"lantawan": {
+						"name": "Lantawan"
+					},
+					"maluso": {
+						"name": "Maluso"
+					},
+					"sumisip": {
+						"name": "Sumisip"
+					},
+					"tabuan-lasa": {
+						"name": "Tabuan-lasa"
+					},
+					"tipo-tipo": {
+						"name": "Tipo-tipo"
+					},
+					"tuburan": {
+						"name": "Tuburan"
+					},
+					"ungkaya-pukan": {
+						"name": "Ungkaya Pukan"
+					}
+				},
+				"cities": {
+					"isabela-city": {
+						"name": "Isabela City"
+					},
+					"lamitan-city": {
+						"name": "Lamitan City"
+					}
+				},
+				"count": {
+					"town": 11,
+					"city": 2
+				}
+			},
+			"lanao-del-sur": {
+				"name": "Lanao Del Sur",
+				"towns": {
+					"amai-manabilang-bumbaran": {
+						"name": "Amai Manabilang (bumbaran)"
+					},
+					"bacolod-kalawi-bacolod-grande": {
+						"name": "Bacolod-kalawi (bacolod Grande)"
+					},
+					"balabagan": {
+						"name": "Balabagan"
+					},
+					"balindong-watu": {
+						"name": "Balindong (watu)"
+					},
+					"bayang": {
+						"name": "Bayang"
+					},
+					"binidayan": {
+						"name": "Binidayan"
+					},
+					"buadiposo-buntong": {
+						"name": "Buadiposo-buntong"
+					},
+					"bubong": {
+						"name": "Bubong"
+					},
+					"butig": {
+						"name": "Butig"
+					},
+					"calanogas": {
+						"name": "Calanogas"
+					},
+					"ditsaan-ramain": {
+						"name": "Ditsaan-ramain"
+					},
+					"ganassi": {
+						"name": "Ganassi"
+					},
+					"kapai": {
+						"name": "Kapai"
+					},
+					"kapatagan": {
+						"name": "Kapatagan"
+					},
+					"lumba-bayabao-maguing": {
+						"name": "Lumba-bayabao (maguing)"
+					},
+					"lumbaca-unayan": {
+						"name": "Lumbaca-unayan"
+					},
+					"lumbatan": {
+						"name": "Lumbatan"
+					},
+					"lumbayanague": {
+						"name": "Lumbayanague"
+					},
+					"madalum": {
+						"name": "Madalum"
+					},
+					"madamba": {
+						"name": "Madamba"
+					},
+					"maguing": {
+						"name": "Maguing"
+					},
+					"malabang": {
+						"name": "Malabang"
+					},
+					"marantao": {
+						"name": "Marantao"
+					},
+					"marogong": {
+						"name": "Marogong"
+					},
+					"masiu": {
+						"name": "Masiu"
+					},
+					"mulondo": {
+						"name": "Mulondo"
+					},
+					"pagayawan-tatarikan": {
+						"name": "Pagayawan (tatarikan)"
+					},
+					"piagapo": {
+						"name": "Piagapo"
+					},
+					"picong-sultan-gumander": {
+						"name": "Picong (sultan Gumander)"
+					},
+					"poona-bayabao-gata": {
+						"name": "Poona Bayabao (gata)"
+					},
+					"pualas": {
+						"name": "Pualas"
+					},
+					"saguiaran": {
+						"name": "Saguiaran"
+					},
+					"sultan-dumalondong": {
+						"name": "Sultan Dumalondong"
+					},
+					"tagoloan": {
+						"name": "Tagoloan"
+					},
+					"tamparan": {
+						"name": "Tamparan"
+					},
+					"taraka": {
+						"name": "Taraka"
+					},
+					"tubaran": {
+						"name": "Tubaran"
+					},
+					"tugaya": {
+						"name": "Tugaya"
+					},
+					"wao": {
+						"name": "Wao"
+					}
+				},
+				"cities": {
+					"marawi-city": {
+						"name": "Marawi City"
+					}
+				},
+				"count": {
+					"town": 39,
+					"city": 1
+				}
+			},
+			"maguindanao": {
+				"name": "Maguindanao",
+				"towns": {
+					"ampatuan": {
+						"name": "Ampatuan"
+					},
+					"barira": {
+						"name": "Barira"
+					},
+					"buldon": {
+						"name": "Buldon"
+					},
+					"buluan": {
+						"name": "Buluan"
+					},
+					"datu-abdullah-sangki": {
+						"name": "Datu Abdullah Sangki"
+					},
+					"datu-anggal-midtimbang": {
+						"name": "Datu Anggal Midtimbang"
+					},
+					"datu-blah-t-sinsuat": {
+						"name": "Datu Blah T. Sinsuat"
+					},
+					"datu-hoffer-ampatuan": {
+						"name": "Datu Hoffer Ampatuan"
+					},
+					"datu-odin-sinsuat-dinaig": {
+						"name": "Datu Odin Sinsuat (dinaig)"
+					},
+					"datu-paglas": {
+						"name": "Datu Paglas"
+					},
+					"datu-piang": {
+						"name": "Datu Piang"
+					},
+					"datu-salibo": {
+						"name": "Datu Salibo"
+					},
+					"datu-saudi-ampatuan": {
+						"name": "Datu Saudi Ampatuan"
+					},
+					"datu-unsay": {
+						"name": "Datu Unsay"
+					},
+					"gen-s-k-pendatun": {
+						"name": "Gen. S. K. Pendatun"
+					},
+					"guindulungan": {
+						"name": "Guindulungan"
+					},
+					"kabuntalan-tumbao": {
+						"name": "Kabuntalan (tumbao)"
+					},
+					"mamasapano": {
+						"name": "Mamasapano"
+					},
+					"mangudadatu": {
+						"name": "Mangudadatu"
+					},
+					"matanog": {
+						"name": "Matanog"
+					},
+					"northern-kabuntalan": {
+						"name": "Northern Kabuntalan"
+					},
+					"pagagawan": {
+						"name": "Pagagawan"
+					},
+					"pagalungan": {
+						"name": "Pagalungan"
+					},
+					"paglat": {
+						"name": "Paglat"
+					},
+					"pandag": {
+						"name": "Pandag"
+					},
+					"parang": {
+						"name": "Parang"
+					},
+					"rajah-buayan": {
+						"name": "Rajah Buayan"
+					},
+					"shariff-aguak-maganoy": {
+						"name": "Shariff Aguak (maganoy)"
+					},
+					"shariff-saydona-mustapha": {
+						"name": "Shariff Saydona Mustapha"
+					},
+					"south-upi": {
+						"name": "South Upi"
+					},
+					"sultan-kudarat-nuling": {
+						"name": "Sultan Kudarat (nuling)"
+					},
+					"sultan-mastura": {
+						"name": "Sultan Mastura"
+					},
+					"sultan-sa-barongis-lambayong": {
+						"name": "Sultan Sa Barongis (lambayong)"
+					},
+					"talayan": {
+						"name": "Talayan"
+					},
+					"talitay": {
+						"name": "Talitay"
+					},
+					"upi": {
+						"name": "Upi"
+					}
+				},
+				"cities": {
+					"cotabato-city": {
+						"name": "Cotabato City"
+					}
+				},
+				"count": {
+					"town": 36,
+					"city": 1
+				}
+			},
+			"sulu": {
+				"name": "Sulu",
+				"towns": {
+					"hadji-panglima-tahil-marunggas": {
+						"name": "Hadji Panglima Tahil (marunggas)"
+					},
+					"indanan": {
+						"name": "Indanan"
+					},
+					"jolo": {
+						"name": "Jolo"
+					},
+					"kalingalan-caluang": {
+						"name": "Kalingalan Caluang"
+					},
+					"lugus": {
+						"name": "Lugus"
+					},
+					"luuk": {
+						"name": "Luuk"
+					},
+					"maimbung": {
+						"name": "Maimbung"
+					},
+					"old-panamao": {
+						"name": "Old Panamao"
+					},
+					"omar": {
+						"name": "Omar"
+					},
+					"pandami": {
+						"name": "Pandami"
+					},
+					"panglima-estino-new-panamao": {
+						"name": "Panglima Estino (new Panamao)"
+					},
+					"pangutaran": {
+						"name": "Pangutaran"
+					},
+					"parang": {
+						"name": "Parang"
+					},
+					"pata": {
+						"name": "Pata"
+					},
+					"patikul": {
+						"name": "Patikul"
+					},
+					"siasi": {
+						"name": "Siasi"
+					},
+					"talipao": {
+						"name": "Talipao"
+					},
+					"tapul": {
+						"name": "Tapul"
+					},
+					"tongkil": {
+						"name": "Tongkil"
+					}
+				},
+				"cities": [],
+				"count": {
+					"town": 19,
+					"city": 0
+				}
+			},
+			"tawi-tawi": {
+				"name": "Tawi-tawi",
+				"towns": {
+					"bongao": {
+						"name": "Bongao"
+					},
+					"languyan": {
+						"name": "Languyan"
+					},
+					"mapun-cagayan-de-tawi-tawi": {
+						"name": "Mapun (cagayan De Tawi-tawi)"
+					},
+					"panglima-sugala-balimbing": {
+						"name": "Panglima Sugala (balimbing)"
+					},
+					"sapa-sapa": {
+						"name": "Sapa-sapa"
+					},
+					"sibutu": {
+						"name": "Sibutu"
+					},
+					"simunul": {
+						"name": "Simunul"
+					},
+					"sitangkai": {
+						"name": "Sitangkai"
+					},
+					"south-ubian": {
+						"name": "South Ubian"
+					},
+					"tandubas": {
+						"name": "Tandubas"
+					},
+					"turtle-islands": {
+						"name": "Turtle Islands"
+					}
+				},
+				"cities": [],
+				"count": {
+					"town": 11,
+					"city": 0
+				}
+			}
+		},
+		"count": {
+			"province": 5,
+			"city": 4,
+			"town": 116
+		}
+	}
+}
